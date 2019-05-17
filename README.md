@@ -1,4 +1,4 @@
-# Hangman Game
+ # Hangman Game
 
 > This project is part of our [Data Science](https://rmotr.com/data-science-python-course) and [Web Development](https://rmotr.com/web-development-django-python-course) courses.
 
